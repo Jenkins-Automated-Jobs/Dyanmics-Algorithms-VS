@@ -1,0 +1,23 @@
+# IntelliJ
+.idea/
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+Dyanmic Algorithms (1).sln
+Dyanmic Algorithms (1).vcxproj
+Dyanmic Algorithms (1).vcxproj.filters
+Dyanmic Algorithms (1).vcxproj.user
+.nuget
+
+# Build Stuff
+Source.cpp.bak
+Source.exe
+source.exe
+UpgradeLog.htm
+build/
+Debug/
+x64/
+CMakeLists.txt
